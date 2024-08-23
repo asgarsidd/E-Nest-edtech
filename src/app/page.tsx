@@ -18,8 +18,8 @@ export default function Home() {
     <FeatureProduct/>
     <RecommendProducts/>
     <FrequentlyQuestions/>
-    {/* <Footer/> */}
    
+    <Footer/>
     </div>
     
     </>
